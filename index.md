@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[index Originla(indexOriginal.md)]
+[index Original](indexOriginal.md)]
 
 You can use the [editor on GitHub](https://github.com/enjoydynamics/enjoydynamics.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
