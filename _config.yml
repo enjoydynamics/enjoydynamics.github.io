@@ -4,3 +4,4 @@ plugins:
 theme: chromatical/jekyll-materialdocs
 
 copyright: enjoy dynamics 365 GmbH
+menu_style: dropdown
